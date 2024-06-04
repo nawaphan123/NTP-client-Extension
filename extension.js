@@ -1,5 +1,5 @@
 ({
-    name: "NTP", // Category Name
+    name: "NTP Client", // Category Name
     description: "Get Real Time Clock from internet",
     author: "Nawa Phansaen",
     category: "Timing",
